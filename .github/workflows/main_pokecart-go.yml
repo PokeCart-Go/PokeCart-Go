@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'PokeCart-Go'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0726BFBCEB2C4799A63007759B05F73E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D4E1A7404B074583B35BF27C93FCF672 }}
           package: .
