@@ -6,5 +6,6 @@
         <meta name="description" content="PokeCart Go"/>
         <meta name="referrer" content="no-referrer"/>
         <link rel="stylesheet" type="text/css" href="css/style.css"/>
+        <link rel="stylesheet" type="text/css" href="css/responsive.css"/>
         <script src="js/script.js"> </script>
         <link title="PokeCart Go"/>

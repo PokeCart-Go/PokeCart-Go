@@ -30,4 +30,4 @@
 </div>
 <div class="info-ghost">
 </div>
-# <?php require "misc/footer.php" ?>
+<?php require "misc/footer.php" ?>

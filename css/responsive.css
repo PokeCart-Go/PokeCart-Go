@@ -1,0 +1,27 @@
+@media only screen and (max-width: 600px) {
+
+.menu {
+    display: none;
+}
+
+.banner {
+    div {
+        width: auto;
+        margin: auto;
+    }
+}
+
+.info {
+    flex-direction: column;
+    position: relative;
+    top: auto;
+    div {
+        width: auto;
+        margin: 1em;
+    }
+.info-ghost {
+    display: none;
+}
+}
+
+}
