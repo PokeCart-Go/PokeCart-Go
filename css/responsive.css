@@ -1,24 +1,25 @@
-@media only screen and (max-width: 768px) {
+@media (max-width: 768px) {
 
 .menu {
     display: none;
 }
 
-.banner {
-    div {
-        width: auto;
-        margin: auto;
-    }
+.banner div {
+    width: auto;
+    margin: auto;
 }
 
 .info {
     flex-direction: column;
     position: relative;
     top: auto;
-    div {
-        width: auto;
-        margin: 1em;
-    }
+}
+
+.info div {
+    width: auto;
+    margin: 1em;
+}
+
 .info-ghost {
     display: none;
 }
