@@ -82,5 +82,8 @@ footer {
   padding: 1.5em;
   background-color: var(--yellow);
   border-radius: 1em;
-  width: calc(100vw / 3 - 5%);
+  width: calc(100vw / 3 - 10%);
+}
+.info div p {
+  padding: 1em;
 }
