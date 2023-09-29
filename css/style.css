@@ -2,7 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 
 :root {
-  --white: #FFFFFF;
+  --white: #FFF;
+  --black: #000;
   --yellow: #FBD743;
   --red: #FF1F1F;
   --light-blue: #5DB9FF;
@@ -58,7 +59,7 @@ footer {
   width: 30%;
   padding: 1em;
   margin: 5em;
-  color: var(--white);
+  color: var(--black);
 }
 
 .book-now {

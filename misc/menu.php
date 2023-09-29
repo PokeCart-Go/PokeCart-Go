@@ -3,7 +3,7 @@
 <div class="navbar">
 <nav class="menu">
     <a href="routes">Routes</a>
-    <a href="about">About Us</a>
+    <a href="about.html">About Us</a>
     <a href="bookings">Bookings</a>
     <a href="blog">Blog</a>
 </nav>
